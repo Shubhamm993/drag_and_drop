@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#board>img,
+#pieces>img {
+    width: 80px;
+    height: 80px;
+    border: 1px solid lightblue;
+}
+
+#board{
+    height: 410px;
+    width: 410px;
+}
+
+
+#pieces{
+    width: 1045px;
+    height: 160px;
+}
